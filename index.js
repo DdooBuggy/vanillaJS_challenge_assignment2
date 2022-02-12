@@ -1,7 +1,7 @@
 const purple = "color-purple";
 const yello = "color-yello";
 const blue = "color-blue";
-const body = document.querySelector("body");
+const body = document.body;
 
 function changeColor() {
     if (window.innerWidth < 1000) {
